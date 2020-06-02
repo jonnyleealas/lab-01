@@ -1,0 +1,65 @@
+@media only screen and (min-width:480px){
+    .a{
+        background-color: honeydew;
+        line-height: 100px;
+        width: 960px;
+        height: 100px;
+        border: 1px solid  black;
+    }
+    .b{
+        background-color: lawngreen;
+        float: left;
+        line-height: 600px;
+        width: 200px;
+        height: 600px;
+        border: 1px solid  black;
+       
+        
+    
+    }
+    
+    .cd{
+        background-color: chocolate;
+        line-height: 200px;
+        width: 380px;
+        height: 200px;
+        border: 1px solid  black;
+        display: inline-block;
+    }
+    
+    
+    .ef, .gh{
+        
+        background-color: cyan;
+        line-height: 250px;
+        width: 190px;
+        height: 250px;
+        border: 1px solid  black;
+        display: flex;
+      
+    
+    }
+    
+   
+    .section1, .section2{
+       display: inline-block;
+       text-align: center;
+    }
+    
+
+    .i{
+        background-color: deeppink;
+        line-height: 150px;
+        width: 760px;
+        height: 150px;
+        border: 1px solid  black;
+        display: inline-block;
+    }
+    .sectioncd{
+        display: flex;
+        text-align: center;
+       
+    }
+    
+  
+ }
